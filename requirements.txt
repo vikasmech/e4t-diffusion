@@ -1,4 +1,4 @@
-diffusers[torch]==0.14.0
+diffusers[torch]
 # for image variation
 # git+https://github.com/huggingface/diffusers.git
 transformers
